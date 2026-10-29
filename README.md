@@ -25,3 +25,14 @@ https://api-236945.onrender.com/health
 
 Docker Backend:
 phamchinguyen236945/backend:1.0
+
+## Render Frontend
+
+Frontend:
+https://web-236945.onrender.com
+
+Backend:
+https://api-236945.onrender.com
+
+Docker Frontend:
+phamchinguyen236945/frontend:2.0
